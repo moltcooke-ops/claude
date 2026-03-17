@@ -210,6 +210,11 @@
       "source": "moltcooke-ops/claude",
       "sourceType": "github",
       "computedHash": "f7ea5d1bc91dc04e85b5f8e6946e99844d5932ad8f8a8df0f85232e181bd8870"
+    },
+    "frontend-design": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "computedHash": "6cc26ebc78673680cb3960e10192dcbd7c4dff74e7da9a13f1c343e2cc86121b"
     }
   }
 }

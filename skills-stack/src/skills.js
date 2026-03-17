@@ -64,4 +64,16 @@ export const collections = [
       { name: "skill-creator", description: "Create well-structured Claude Code skills from scratch" },
     ],
   },
+  {
+    id: "design-taste",
+    name: "Design Taste Skills",
+    author: "anthropics",
+    repo: "anthropics/skills",
+    description: "Anthropic's official frontend design skill that gives AI good taste — build distinctive, production-grade web interfaces that avoid generic AI aesthetics.",
+    count: 1,
+    tags: ["design", "frontend", "website", "ui", "taste", "css"],
+    skills: [
+      { name: "frontend-design", description: "Create distinctive, production-grade frontend interfaces with high design quality and bold aesthetics" },
+    ],
+  },
 ];
