@@ -165,6 +165,101 @@
       "source": "coreyhaines31/marketingskills",
       "sourceType": "github",
       "computedHash": "85ffbc05cf88939ba3ff643a315928185af16181470349dfbaad2880047c9900"
+    },
+    "docx": {
+      "source": "BehiSecc/awesome-claude-skills",
+      "sourceType": "github",
+      "computedHash": "0766bb52ce5f5d8dfe0f09d9d1c883ceb59ee683fcf430f284256a926d7ac0ef"
+    },
+    "pdf": {
+      "source": "BehiSecc/awesome-claude-skills",
+      "sourceType": "github",
+      "computedHash": "6446ce36172bc1917ba1bab3a89fce12da290e8998704553a7b8a9be73245e3e"
+    },
+    "pptx": {
+      "source": "BehiSecc/awesome-claude-skills",
+      "sourceType": "github",
+      "computedHash": "857294f0ca8c076c16b5f22f384943d2cbe851b2b5411917994549b52154c847"
+    },
+    "xlsx": {
+      "source": "BehiSecc/awesome-claude-skills",
+      "sourceType": "github",
+      "computedHash": "1e0c5690af86e824df04ac7f8689e8aa449ba6fe5d76743b3a989aea82e228c7"
+    },
+    "polaris-datainsight-doc-extract": {
+      "source": "BehiSecc/awesome-claude-skills",
+      "sourceType": "github",
+      "computedHash": "8543ded591552fff7dfa06c3ba9c596b3309f292ccdc3650097b7fa91de796cf"
+    },
+    "revealjs-skill": {
+      "source": "BehiSecc/awesome-claude-skills",
+      "sourceType": "github",
+      "computedHash": "514c36ec15143a9f518ebd049cfc610b698331c02a752218528d33877e4505ac"
+    },
+    "web-artifacts-builder": {
+      "source": "BehiSecc/awesome-claude-skills",
+      "sourceType": "github",
+      "computedHash": "a254aa23ba106d542a9ba1ac675c274858524c1291a05f09de05181dd385bb75"
+    },
+    "test-driven-development": {
+      "source": "BehiSecc/awesome-claude-skills",
+      "sourceType": "github",
+      "computedHash": "cc1509a06037be39aacad512dacc06f0a2039cc8ad8d233c6b4502c52d1e3350"
+    },
+    "aws-skills": {
+      "source": "BehiSecc/awesome-claude-skills",
+      "sourceType": "github",
+      "computedHash": "86f52a7a42e15231b242934c2ddf14a49a17e480b1b6b8b0f306fb35e504be1a"
+    },
+    "oiloil-ui-ux-guide": {
+      "source": "BehiSecc/awesome-claude-skills",
+      "sourceType": "github",
+      "computedHash": "04c033efcf01569245216ea348604b93a6e9739b4e1210880d11f23557f75685"
+    },
+    "playwright-skill": {
+      "source": "BehiSecc/awesome-claude-skills",
+      "sourceType": "github",
+      "computedHash": "1c3773dc92182c81c4bd384972d6414478b7ce2cc6d24cc85b86a73d01e65f96"
+    },
+    "csv-data-summarizer": {
+      "source": "BehiSecc/awesome-claude-skills",
+      "sourceType": "github",
+      "computedHash": "f83183d2bbd819dcfbc70f7a8351db408d5446fdd1d535fca375e6caf1cf31aa"
+    },
+    "postgres": {
+      "source": "BehiSecc/awesome-claude-skills",
+      "sourceType": "github",
+      "computedHash": "7f0cc4c82740f3566f5bcfa7e93a1a1debe78faf1fa0e1acc674082eda2ef613"
+    },
+    "kaggle-skill": {
+      "source": "BehiSecc/awesome-claude-skills",
+      "sourceType": "github",
+      "computedHash": "bcc770a003d982d90f5db72b14b2c9f6f23138200bfbe6cac831c01a19affc5b"
+    },
+    "x-twitter-scraper": {
+      "source": "BehiSecc/awesome-claude-skills",
+      "sourceType": "github",
+      "computedHash": "fb29038b0fc4a9158c72e4dd1d51460a919af84571deacca33b40042047b57bc"
+    },
+    "vibesec-skill": {
+      "source": "BehiSecc/awesome-claude-skills",
+      "sourceType": "github",
+      "computedHash": "223165b2cf0963ff47d6115bdb96fd3cd60fcbc840e71216ada7303c89410464"
+    },
+    "owasp-security": {
+      "source": "BehiSecc/awesome-claude-skills",
+      "sourceType": "github",
+      "computedHash": "c2dd51ee26786a233fbedece529326d5b7435be23600ef7f24a2fb915b16cca1"
+    },
+    "varlock-claude-skill": {
+      "source": "BehiSecc/awesome-claude-skills",
+      "sourceType": "github",
+      "computedHash": "e0e9b7cfc2f42b5e984bb580c0d55e14622167f16369907efb5a3fe1fad9387d"
+    },
+    "sanitize": {
+      "source": "BehiSecc/awesome-claude-skills",
+      "sourceType": "github",
+      "computedHash": "34d7df1339838c3d3f09bb6b43f4c99d7bddf40f73d39491e3610199479be1a9"
     }
   }
 }
