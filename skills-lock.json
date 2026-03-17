@@ -165,6 +165,51 @@
       "source": "coreyhaines31/marketingskills",
       "sourceType": "github",
       "computedHash": "85ffbc05cf88939ba3ff643a315928185af16181470349dfbaad2880047c9900"
+    },
+    "anti-slop": {
+      "source": "moltcooke-ops/claude",
+      "sourceType": "github",
+      "computedHash": "00b445a4e1356c81a68689cdb84a18bb57d313ef27304f54c4a1b8ce549a7041"
+    },
+    "email-writer": {
+      "source": "moltcooke-ops/claude",
+      "sourceType": "github",
+      "computedHash": "529c0ec8fddaf5afc2ce8d38a379337e2a21d57c40ce05e72c7f40842c0b15bc"
+    },
+    "linkedin-post-writer": {
+      "source": "moltcooke-ops/claude",
+      "sourceType": "github",
+      "computedHash": "ddd7572fc60be3e77ef8c9f0678c205acda100023bfd629bf32e5e7b12f11fc4"
+    },
+    "content-repurposing": {
+      "source": "moltcooke-ops/claude",
+      "sourceType": "github",
+      "computedHash": "8ef4f9528ded71beb8e59ed4e39183d2235f571d4d799568608d0506f02ecdee"
+    },
+    "youtube-seo": {
+      "source": "moltcooke-ops/claude",
+      "sourceType": "github",
+      "computedHash": "4d94e877c4e714579405d895631ed18675cce7176017f96af43a4906cca97f55"
+    },
+    "short-form-video-scripts": {
+      "source": "moltcooke-ops/claude",
+      "sourceType": "github",
+      "computedHash": "7b990e87d764c1081f4a464f25d3214592bd4176177588281f3b269c09574fce"
+    },
+    "thumbnail-designer": {
+      "source": "moltcooke-ops/claude",
+      "sourceType": "github",
+      "computedHash": "2732bbf75e61e7da58e5c51d2943c7f573b35469210dc360eefd425194f2db46"
+    },
+    "seo-blog-post-writer": {
+      "source": "moltcooke-ops/claude",
+      "sourceType": "github",
+      "computedHash": "4aa04a8f44c6180e33930b718233fd4fd9b70bb7201424c68fc9ede89e8371b1"
+    },
+    "skill-creator": {
+      "source": "moltcooke-ops/claude",
+      "sourceType": "github",
+      "computedHash": "f7ea5d1bc91dc04e85b5f8e6946e99844d5932ad8f8a8df0f85232e181bd8870"
     }
   }
 }
